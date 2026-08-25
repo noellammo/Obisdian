@@ -1,0 +1,13 @@
+# Obsidian workspace & UI state (prevents frequent merge conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json.tmp*
+
+# Obsidian trash folder
+.trash/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+desktop.ini
